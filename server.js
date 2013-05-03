@@ -1,5 +1,5 @@
 var express = require('express')
-  , port = process.env.PORT || 80;
+  , port = process.env.PORT || 1337;
 
 var server = express();
 
