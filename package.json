@@ -1,0 +1,21 @@
+{
+  "name": "hello-azure",
+  "version": "0.0.0",
+  "description": "A simple project for playing around with Node.js on Windows Azure",
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha -R spec",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martega/hello-azure.git"
+  },
+  "author": "Martin Ortega",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "8f8862c5563f1d3af4b9927b85e35fc8cbdb483b",
+  "dependencies": {
+    "express": "~3.2.2"
+  }
+}
