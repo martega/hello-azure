@@ -5,7 +5,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "mocha -R spec",
-    "start": "node main.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
